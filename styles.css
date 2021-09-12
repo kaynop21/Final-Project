@@ -1,0 +1,62 @@
+.container {
+    background-color: #25274d;
+}
+
+.card {
+    background-color: #000000;
+}
+
+.card-header {
+    background-color: #464866;
+    ;
+}
+
+#photoDiv img {
+    display: block;
+    margin: auto;
+    width: 75%;
+    height: 75%;
+    object-fit: cover;
+}
+
+.btn-danger {
+    float: right;
+}
+
+h2 {
+    float: middle;
+    color: white;
+}
+
+.btn-primary {
+    background-color: #2e9cca;
+    border-color: #2e9cca;
+}
+
+.btn-primary:hover {
+    background-color: #29648A;
+    border-color: #29648A;
+}
+
+.btn-filter {
+    display: inline;
+    width: 20%;
+    margin: 2.5%;
+}
+
+#heading {
+    border: 3px #2e9cca solid;
+    margin: 20px 20px;
+    background-color: black;
+    border-radius: 10px;
+    font-family: Bradley Hand, cursive;
+    text-align: center;
+    color: white;
+}
+
+#bannerimage {
+    width: 100%;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea015264-1416-4cb6-9092-7b722f6d6953/d8vfaou-d45a0e3a-f69d-4aef-a0f0-2d852865b20f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9lYTAxNTI2NC0xNDE2LTRjYjYtOTA5Mi03YjcyMmY2ZDY5NTMvZDh2ZmFvdS1kNDVhMGUzYS1mNjlkLTRhZWYtYTBmMC0yZDg1Mjg2NWIyMGYucG5nIn1dXX0.wZmLlYJj74_QSag-J7feQN4Ff31nAMdl_1QDpZ9Lavs);
+    height: 100px;
+    background-position: center;
+}
